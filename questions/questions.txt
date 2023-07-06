@@ -1,0 +1,21 @@
+Koja zamisljena linija formira krug koji dijeli Zemlju na dve hemisfere?;_unos(odgovor je:ekvator)
+Koji od ovih gradova je najudaljeniji od Tokija?;Glazgov;Moskva;Kvinstaun;Beograd
+Kolika je brzina Sunceve svjetlosti u vakuumu?;1000km/s;100000km/h;200000km/s;300000km/s
+U kom brojcanom sistemu bi tvrdnja 1+1=10 bila tacna?;Binarnom;Kvadratnom;Tercijarnom;Nijednom
+Koja od ovih drzava NE granici sa Brazilom?;Cile;Urugvaj;Bolivija;Argentina
+Sta je predmet proucavanja entomologa?;_unos sa tastature(odgovor je insekat)
+Kako se zove drzava od koje je Amerika otkupila drzavu Aljasku?;odgovor sa tastature(odgovor je Rusija)
+Koji od ovih je,prema grckoj mitologiji,bio najjaci medju bogovima?;Ares;Kripton;Zevs;Tor
+Koje je peto slovo grckog alfabeta?;Epsilon;Gama;Pi;Delta
+Kako se zove trougao kome stranice nisu jednake?;Tupi;Jednakostranicni;Raznostranicni;Jednakokraki
+Koja zemlja je SAD-u poklonila Kip Slobode?;Kanada;Francuska;Velika Britanija;Italija
+Kako se u pravom zivotu zove glumac koji je imao galvnu ulogu u filmu Roki?;Silvester Stalone;Arnold Svarceneger;Zan-Klod van Dam;Stiven Sigal
+Cija zastava izgleda veoma slicno americkoj,ali sa jednom velikom zvezdom?;Zastava Liberije;Zastava Litvanije;Zastava Konga;Zastava Estonije
+Kako se pise broj 5 rimskim ciframa?;_unos sa tastarure(odgovor je v)
+Koliko boja se nalazi na zastavi Juzne Koreje?;2;4;3;5
+Koja je najnaseljenija drzava u SAD-u?; Teksas;Ilinois;Florida;Kalifornija
+Koje su boje zvanicna taksi vozila u Njujorku?;Plave;Zute;Roze;Zelene
+Kako se zove kontinent na kome se nalazi Mont Everest?;Afrika;Amerika;Azija;Evropa
+Koliko godina je imala najstarija osoba na svetu u trenutku kad je urmla?;118;122;108;116
+Kako se zove kontinent koji je potpuno lisen pcela?;_unos sa tastarure(odgovor je Antarktik)
+
