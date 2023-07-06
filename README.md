@@ -16,17 +16,17 @@ The goal of this project is to create an interactive quiz application that chall
 
 ## Key Features
 
-- Secure User Registration: Implement a secure user registration process that generates digital certificates for each user. This ensures the confidentiality and integrity of user information.
+- `Secure User Registration`: Implement a secure user registration process that generates digital certificates for each user. This ensures the confidentiality and integrity of user information.
 
-- Protected Quiz Questions: Apply steganography techniques to securely hide quiz questions within separate images. By using this approach, we prevent unauthorized access to the quiz questions outside of the application.
+- `Protected Quiz Questions`: Apply steganography techniques to securely hide quiz questions within separate images. By using this approach, we prevent unauthorized access to the quiz questions outside of the application.
 
-- Secure User Authentication: Enable users to authenticate themselves using their generated digital certificates. This ensures that only authorized users can access the quiz and protects against unauthorized access.
+- `Secure User Authentication`: Enable users to authenticate themselves using their generated digital certificates. This ensures that only authorized users can access the quiz and protects against unauthorized access.
 
-- Confidentiality and Integrity of Quiz Results: Implement mechanisms to ensure the confidentiality and integrity of quiz results. User results are stored in a secure manner, allowing only authenticated users to view their own results.
+- `Confidentiality and Integrity of Quiz Results`: Implement mechanisms to ensure the confidentiality and integrity of quiz results. User results are stored in a secure manner, allowing only authenticated users to view their own results.
 
-- Certificate Authority Infrastructure: Establish a Certificate Authority infrastructure using tools like OpenSSL. This infrastructure enables the issuance and management of digital certificates, ensuring their validity and authenticity.
+- `Certificate Authority Infrastructure`: Establish a Certificate Authority infrastructure using tools like OpenSSL. This infrastructure enables the issuance and management of digital certificates, ensuring their validity and authenticity.
 
-- Optimized Cryptographic Algorithms: Utilize appropriate cryptographic algorithms to ensure the security and efficiency of various operations within the application. Careful consideration is given to the selection and implementation of symmetric and asymmetric algorithms to strike the right balance between performance and security.
+- `Optimized Cryptographic Algorithms`: Utilize appropriate cryptographic algorithms to ensure the security and efficiency of various operations within the application. Careful consideration is given to the selection and implementation of symmetric and asymmetric algorithms to strike the right balance between performance and security.
 
 ## Setup
 
